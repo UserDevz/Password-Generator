@@ -1,7 +1,5 @@
 # Criador: UserDevz
 # Gerador de senhas fortes!
-# modo de uso:
-#    •python Password-Generator.py <numero de caracteres>
 
 # importando as bibliotecas necessarias:
 import random
